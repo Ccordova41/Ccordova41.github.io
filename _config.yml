@@ -1,0 +1,21 @@
+# Site settings
+title: Swimming with the sharks 
+header-img: img/home-bg.png
+email: ccordova41@gmail.com
+copyright_name: Ccordova41
+description: > # this means to ignore newlines until "baseurl:"
+  Joining the FlatIron Web Development Program 
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  Ccordova41
+learn_profile: Ccordova41
+email_username: ccordova41@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
