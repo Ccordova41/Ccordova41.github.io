@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "How to React in 2017(vid included!)"
-date:       2017-12-08 20:35:50 +0000
+title:      "How to React in 2017(vid included!)🤓"
+date:       2017-12-08 15:35:50 -0500
 permalink:  how_to_react_in_2017_vid_included
 ---
 
