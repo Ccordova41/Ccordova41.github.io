@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Story Behind Sinatra  and the Companies Who Use It "
-date:       2017-12-26 21:12:21 +0000
+date:       2017-12-26 16:12:22 -0500
 permalink:  the_story_behind_sinatra_and_the_companies_who_use_it
 ---
 
