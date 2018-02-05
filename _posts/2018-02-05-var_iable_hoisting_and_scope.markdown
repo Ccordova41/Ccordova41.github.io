@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Var(iable) hoisting and scope "
-date:       2018-02-05 16:42:37 +0000
+date:       2018-02-05 11:42:37 -0500
 permalink:  var_iable_hoisting_and_scope
 ---
 
